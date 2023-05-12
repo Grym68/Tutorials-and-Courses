@@ -1,0 +1,2 @@
+﻿  Structures.typedef.c
+C:\Users\eugry\git\github\Tutorials-and-Courses\C_Intermediate1\Structures&Unions\Structures.typedef.c(18,22): warning C4305: '=': truncation from 'double' to 'float'
