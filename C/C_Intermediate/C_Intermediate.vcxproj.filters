@@ -36,5 +36,8 @@
     <ClCompile Include="Unions.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="MemoryManagement.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

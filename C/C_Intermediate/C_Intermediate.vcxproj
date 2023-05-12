@@ -132,6 +132,7 @@
     <ClCompile Include="..\..\C_Intermediate1\Structures&amp;Unions\Structures.typedef.c" />
     <ClCompile Include="C_Intermediate.cpp" />
     <ClCompile Include="HelloWorld.c" />
+    <ClCompile Include="MemoryManagement.c" />
     <ClCompile Include="Structures.c" />
     <ClCompile Include="Unions.c" />
   </ItemGroup>
